@@ -30,6 +30,9 @@
           <img src="../img/ubc-logo.jpg" alt="Logo"/>
         </p>
         <h3 align="center">SPAN 590</h3>
+        <p align="center">
+          <a href="/span590/home.html">Back to main</a>
+        </p>
         
 
         <!--
@@ -89,8 +92,9 @@
 
       {{ content }}
 
-
+      {% if page.comments %}
       {% include disqus.html %}
+      {% endif %}
 
       <br>
       <br>
