@@ -55,3 +55,9 @@ with a particular interest in literature, popular culture, and artivism (art+act
 - Publishing Seminar. Spring 2019 @ Vértice Anáhuac México.
 - Literary Criticism in Italian. Spring 2019 @ Anáhuac México.
 - Advanced English Language. Fall 2018 &amp; Spring 2019 @ Anáhuac México.
+
+## Contact
+
+revillas[at]student[dot]ubc[dot]ca \
+Page at UBC FHIS. <a href="https://fhis.ubc.ca/profile/sarah-revilla-sanchez/">
+<i class="fas fa-external-link-alt" style="font-size:20px"></i></a>
