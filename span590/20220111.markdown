@@ -4,11 +4,9 @@ comments: true
 ---
 
 # About me
-I'm a 1st year PhD student from Mexico. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-hello
+Me llamo Sarah y estoy en mi primer año del doctorado en Hispanic Studies. Nací en la Ciudad de México y vivo en British Columbia desde 2019. 
+Estudié una maestría en Sociología en Victoria antes de venir a UBC. 
+Uno de mis intereses de investigación es la violencia de género en México, y este fenómeno se debe entender, en parte, dentro del contexto del narcotráfico. 
+En este curso espero indagar más sobre cómo se representan las manifestaciones de violencia en la literatura Mexicana contemporánea, y qué nos puede decir esto acerca de los roles de género, machismo, y masculinidades. ¿Cómo podemos entender la cotidianidad del horror y la violencia a través de narconarrativas?
 
-space
+
