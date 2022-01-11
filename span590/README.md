@@ -1,4 +1,8 @@
-# Creating a new blog entry
+# SPAN 590 blog
+
+Link to page: [https://sarahrevilla.github.io/span590/home](https://sarahrevilla.github.io/span590/home).
+
+## Creating a new blog entry
 
 1. Select `Add file` > `Create new file`
 2. Name the file. Recommendation: use the format `yyyymmdd.markdown`.
