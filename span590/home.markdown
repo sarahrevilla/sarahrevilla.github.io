@@ -10,6 +10,4 @@ Hey! Welcome to my SPAN 590 blog.
 
 ## Posts
 
-- [January 11, 2022](20220111)
-- [January 10, 2022](20220110)
-
+- [About Sarah (January 11, 2022)](20220111)
