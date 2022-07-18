@@ -5,7 +5,7 @@ title: ""
 
 ## About
 
-I am a 1st year PhD student in Hispanic Studies at UBC,
+I am a PhD student in Hispanic Studies at UBC,
 where I am supervised by Dr. Tamara Mitchell.
 My most recent research centers around gendered violence in Mexico,
 specifically feminicidio, and the affects engendered between
@@ -14,6 +14,9 @@ public mourning, artivism (art+activism) and contemporary literature.
 My research also explores monstrous representations of
 women in North American and Latin American popular culture,
 as well as the intersection between Mexican masculinity and neoliberalism.
+
+My research lies at the intersection of gender and cultural studies in contemporary Mexico,
+with a particular interest in literature, popular culture, and artivism (art+activism).
 
 Before coming to UBC,
 I completed a master's degree in Comparative Literature at Brock University
@@ -24,10 +27,25 @@ at the University of Victoria (2019&ndash;2021) with Dr. Steve Garlick.
 
 ## Research
 
-My research lies at the intersection of gender and cultural studies in contemporary Mexico,
-with a particular interest in literature, popular culture, and artivism (art+activism).
+**Book reviews:**
 
-**Publications:**
+- *Gothic Imagination in Latin American Fiction and Film*
+(University of New Mexico Press, 2019)
+by Carmen A. Serrano.
+*A Contracorriente: Una revista de estudios latinoamericanos*
+19.3 (May 2022): 403-407.
+<a href="https://acontracorriente.chass.ncsu.edu/index.php/acontracorriente/article/view/2248">
+<i class="fas fa-external-link-alt" style="font-size:20px"></i>
+- *Men, Masculinities, and Popular Romance*
+(Routledge, 2019)
+by Jonathan A. Allan.
+*Popular Culture Studies Journal*
+10.1 (April 2022): 374-376.
+<a href="https://mpcaaca.org/wp-content/uploads/2022/04/25_Book-Reviews.pdf">
+<i class="fas fa-external-link-alt" style="font-size:20px"></i>
+
+
+**Non-peer reviewed:**
 - Revilla-Sanchez, S. (2021).
   Haunting Murders: Feminicide, Ghosts, and Affects in Contemporary Mexico.
   University of Victoria. (MA thesis.)
