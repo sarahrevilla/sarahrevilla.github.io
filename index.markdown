@@ -64,6 +64,9 @@ by Jonathan A. Allan.
 - International TA Consultant. Fall 2020 &amp; Spring 2021 @ UVic.
 
 **TAing:**
+- RMST 201: Introduction to Literatures and Cultures
+of the Romance World I: Medieval to Early Modern.
+Fall 2022 @ UBC.
 - PORT 405: Studies in Portuguese and Brazilian Culture. Spring 2022 @ UBC.
 - SOCI 389: Death and Dying. Fall 2020 &amp; Summer 2021 @ UVic.
 - SOCI 281: Sociology of Genders. Spring 2020 &amp; Spring 2021 @ UVic.
