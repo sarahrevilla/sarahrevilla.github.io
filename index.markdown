@@ -174,18 +174,37 @@ lorem ipsum brief description
 blah
 -->
 
-## Teaching
+## Teaching and resources
+
+**Resources:**
+
+- Slides for teaching inclusive language in Spanish classes: 
+<a href="./docs/InclusiveLanguageBeginnersSpanish.pdf">
+  <i class="fas fa-desktop" style="font-size:20px"></i>
+</a> 
 
 **Mentorship:**
 
 - <span style="color:black;">
+  Senior TA. Fall 2024 &amp; Spring 2025 @ UBC.
+</span>
+- <span style="color:black;">
   International TA Consultant. Fall 2020 &amp; Spring 2021 @ UVic.
 </span>
+
 
 **TAing:**
 - <span style="color:black;">
 SPAN 102: Beginners' Spanish II.
-Winter 2024 @ UBC.
+Spring 2025 @ UBC.
+</span>
+- <span style="color:black;">
+SPAN 101: Beginners' Spanish I.
+Fall 2024 @ UBC.
+</span>
+- <span style="color:black;">
+SPAN 102: Beginners' Spanish II.
+Spring 2024 @ UBC.
 </span>
 - <span style="color:black;">
 SPAN 101: Beginners' Spanish I.
