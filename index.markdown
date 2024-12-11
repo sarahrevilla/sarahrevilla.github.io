@@ -69,14 +69,14 @@ I’m currently learning XML-TEI.
 </span>
 
 <span style="color:black;">
-Find out more about are work [here](https://www.arts.ubc.ca/news/meet-the-faculty-of-arts-phd-students-decolonizing-the-future-of-digital-humanities-across-disciplines/) 
+Find out more about our work [here](https://www.arts.ubc.ca/news/meet-the-faculty-of-arts-phd-students-decolonizing-the-future-of-digital-humanities-across-disciplines/) 
 and check out the [poster](https://zenodo.org/records/14013741) 
 I presented recently at 
 the Text Encoding Initiative conference in October 2024.
 </span>
 
 
-**Project: (Re)appearing the Desaparecidos: Testimonial Mural Art and Intergenerational Trauma of the Argentinean Dictatorship (1976–1983)**
+**(Re)appearing the Desaparecidos: Testimonial Mural Art and Intergenerational Trauma of the Argentinean Dictatorship (1976–1983)**
 
 <span style="color:black;">
 Since 2020, I have been working as a Research Assistant 
@@ -87,7 +87,7 @@ Argentinean testimonial art production and testimonies.
 As part of my duties, 
 I am transcribing and translating (Spanish/English) testimonies. 
 As a research team, we travelled to Buenos Aires 
-to conduct field research (June 2022) 
+to conduct field work (June 2022) 
 and co-organized an international conference in Canada. 
 Read more about that event [here](https://brocku.ca/brock-news/2024/02/humanities-research-event-to-explore-trauma-historical-erasure/).
 </span>
