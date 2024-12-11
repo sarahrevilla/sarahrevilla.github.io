@@ -80,7 +80,31 @@ University of Victoria, 2021. (MA thesis.)
 <a href="https://dspace.library.uvic.ca/bitstream/handle/1828/13255/Revilla-Sanchez_Sarah_MA_2021.pdf?sequence=5&isAllowed=y">
 <i class="fas fa-external-link-alt" style="font-size:20px"></i>
 
+<!--
+### Other research projects
 
+**PhD Collab: the TEI Network**
+
+lorem ipsum brief description
+
+<a href="https://www.arts.ubc.ca/news/meet-the-faculty-of-arts-phd-students-decolonizing-the-future-of-digital-humanities-across-disciplines/">
+  <i class="fas fa-external-link-alt" style="font-size:20px"></i>  UBC
+</a>  &emsp;
+<a href="https://zenodo.org/records/14013741">
+<i class="fas fa-desktop"></i> poster
+</a>
+
+**Sound Cluster**
+
+<a href="https://sound.arts.ubc.ca/">
+  <i class="fas fa-external-link-alt" style="font-size:20px"></i>  UBC
+</a> 
+
+
+**Testimony**
+
+blah
+-->
 
 ## Teaching
 
