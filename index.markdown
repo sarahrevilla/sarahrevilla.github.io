@@ -6,21 +6,22 @@ title: ""
 ## About
 
 <span style="color:black;">
-I am a PhD candidate in Hispanic Studies at UBC,
-where I am supervised by Dr. Tamara Mitchell.
-My research lies at the intersection of gender and cultural studies
-in contemporary Mexico,
-with a particular interest in gendered violence,
-21st Century Latin American literature,
-popular culture, and artivism (art+activism).
+I am a PhD candidate in Hispanic Studies at the University of British Columbia (UBC). 
+Soy mexicana y vivo en Vancouver. 
+I have an interdisciplinary background in Sociology, 
+Comparative Literatures, and Cultural Management. 
+As a graduate student, I’m a huge advocate for work-life balance, 
+and I don’t work on weekends!
 </span>
 
 <span style="color:black;">
-Before coming to UBC,
-I completed a master's degree in Sociology
-at the University of Victoria (2019&ndash;2021) with Dr. Steve Garlick
-and a master's degree in Comparative Literature at Brock University
-(2017&ndash;2018) with Dr. Cristina Santos.
+<ins>Current literary obsession:</ins>
+Amparo Dávila’s short stories<br>
+<ins>Favourite time of the day:</ins>
+Morning coffee with my husband 
+[Gian Carlo](https://giankdiluvi.github.io/)<br>
+<ins>Next goal</ins>: Run a marathon in May 2025 <br>
+<ins>Apps I use to stay organized:</ins> Todoist and iCloud Calendar
 </span>
 
 <!--
@@ -35,7 +36,75 @@ as well as the intersection between Mexican masculinity and neoliberalism.
 
 ## Research
 
-**Book chapters:**
+<span style="color:black;">
+My doctoral research lies at the intersection of gender-based violence,
+contemporary Mexican Gothic fiction, and feminism. 
+Other research interests include Testimony, Digital Humanities, 
+and Sound Studies.
+</span>
+
+<span style="color:black;">
+My dissertation tracks how contemporary literary works by 
+Mexican women are increasingly engaging with the Gothic mode 
+to grapple with gender-based violence. 
+Drawing on Gothic and Horror Studies, Gender Theories, and Feminist Studies, 
+I demonstrate that the authors in my corpus not only capture and portray 
+the horrors of patriarchal violence, 
+but they do so in ways that expose the entanglement among 
+gender, class, race, politics, and neoliberal logic. 
+Check out [this article](https://fhis.ubc.ca/news/sarah-revilla-sanchez-gender-based-violence-in-mexican-horror-and-gothic-fiction/) 
+to find out more about my research!
+</span>
+
+### Other projects
+
+**The Adaptive TEI Network: Antiracist, Decolonial, and Inclusive Markup Interventions**
+
+<span style="color:black;">
+I’m collaborating with other graduate students, faculty, 
+and DH librarians at UBC and SFU to co-write a new TEI schema 
+that attends to antiracist, decolonial, inclusive, and feminist practices 
+for encoding and analyzing texts in digital form. 
+I’m currently learning XML-TEI.
+</span>
+
+<span style="color:black;">
+Find out more about are work [here](https://www.arts.ubc.ca/news/meet-the-faculty-of-arts-phd-students-decolonizing-the-future-of-digital-humanities-across-disciplines/) 
+and check out the [poster](https://zenodo.org/records/14013741) 
+I presented recently at 
+the Text Encoding Initiative conference in October 2024.
+</span>
+
+
+**Project: (Re)appearing the Desaparecidos: Testimonial Mural Art and Intergenerational Trauma of the Argentinean Dictatorship (1976–1983)**
+
+<span style="color:black;">
+Since 2020, I have been working as a Research Assistant 
+under the supervision of Dr. [Cristina Santos](https://brocku.ca/humanities/modern-languages/faculty-and-staff/cristina-santos/) 
+and Dr. Adriana Spahr. 
+This interdisciplinary project examines 
+Argentinean testimonial art production and testimonies. 
+As part of my duties, 
+I am transcribing and translating (Spanish/English) testimonies. 
+As a research team, we travelled to Buenos Aires 
+to conduct field research (June 2022) 
+and co-organized an international conference in Canada. 
+Read more about that event [here](https://brocku.ca/brock-news/2024/02/humanities-research-event-to-explore-trauma-historical-erasure/).
+</span>
+
+
+**Sound and the Humanities Research Cluster (2022-2024)**
+
+<span style="color:black;">
+I worked as a Research Assistant for my supervisor, Dr. Tamara Mitchell. 
+In addition to maintaining the cluster’s [website](https://sound.arts.ubc.ca/), 
+I co-facilitated discussions in reading groups, 
+and created a podcast episode! Coming soon.
+</span>
+
+## Publications
+
+**Refereed publications:**
 
 - <span style="color:black;">
   "La Llorona Hauntings:
@@ -56,23 +125,22 @@ Coauthored with Cristina Santos.
 <a href="https://mcfarlandbooks.com/product/grimm-realities/">
 <i class="fas fa-external-link-alt" style="font-size:20px"></i>
 
-**Book reviews:**
+**Non-refereed publications:**
 
-- *Gothic Imagination in Latin American Fiction and Film*
+- Review of *Gothic Imagination in Latin American Fiction and Film*
 (University of New Mexico Press, 2019)
 by Carmen A. Serrano.
-*A Contracorriente: Una revista de estudios latinoamericanos*
-19.3 (May 2022): 403-407.
+*A Contracorriente: Una revista de estudios latinoamericanos*,
+vol. 19 no. 3, May 2022, pp. 403-407.
 <a href="https://acontracorriente.chass.ncsu.edu/index.php/acontracorriente/article/view/2248">
 <i class="fas fa-external-link-alt" style="font-size:20px"></i>
-- *Men, Masculinities, and Popular Romance*
+- Review of *Men, Masculinities, and Popular Romance*
 (Routledge, 2019)
 by Jonathan A. Allan.
-*Popular Culture Studies Journal*
-10.1 (April 2022): 374-376.
+*Popular Culture Studies Journal*,
+vol. 10 no. 1, April 2022, pp. 374-376.
 
 
-**Non-peer reviewed:**
 - <span style="color:black;">
   Haunting Murders: Feminicide, Ghosts, and Affects in Contemporary Mexico.
 </span>
