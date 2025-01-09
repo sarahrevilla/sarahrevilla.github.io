@@ -20,7 +20,7 @@ Amparo Dávila’s short stories<br>
 <ins>Favourite time of the day:</ins>
 Morning coffee with my husband 
 [Gian Carlo](https://giankdiluvi.github.io/)<br>
-<ins>Next goal</ins>: Run a marathon in May 2025 <br>
+<ins>Next goal</ins>: Run a marathon in 2025 <br>
 <ins>Apps I use to stay organized:</ins> Todoist and iCloud Calendar
 </span>
 
