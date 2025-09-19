@@ -256,6 +256,11 @@ Advanced English Language. Fall 2018 &amp; Spring 2019 @ Anáhuac México.
 ## Contact
 
 <span style="color:black;">
+Feel free to reach out if you want to chat about
+graduate studies and Latin American short stories.
+</span>
+
+<span style="color:black;">
 revillas[at]student[dot]ubc[dot]ca
 </span>\
 <span style="color:black;">
