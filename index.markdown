@@ -16,11 +16,11 @@ and I don’t work on weekends!
 
 <span style="color:black;">
 <ins>Current literary obsession:</ins>
-Amparo Dávila’s short stories<br>
+Atenea Cruz’s short stories<br>
 <ins>Favourite time of the day:</ins>
 Morning coffee with my husband 
 [Gian Carlo](https://giankdiluvi.github.io/)<br>
-<ins>Next goal</ins>: Run a marathon in 2025 <br>
+<ins>Next goal</ins>: Run a marathon in 2025 (<i class="fa-regular fa-square-check"></i> Ran the Royal Victoria Marathon in October, 2025!)<br>
 <ins>Apps I use to stay organized:</ins> Todoist and iCloud Calendar
 </span>
 
