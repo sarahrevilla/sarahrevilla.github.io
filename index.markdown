@@ -97,10 +97,14 @@ Read more about that event [here](https://brocku.ca/brock-news/2024/02/humanitie
 
 <span style="color:black;">
 I worked as a Research Assistant for my supervisor, Dr. Tamara Mitchell. 
-In addition to maintaining the cluster’s [website](https://sound.arts.ubc.ca/), 
+In addition to maintaining the cluster’s website, 
 I co-facilitated discussions in reading groups, 
-and created a podcast episode! Coming soon.
-</span>
+and created a podcast episode! 
+Click to listen:
+<a href="./docs/PodcastEpisode_Soundwalking_SarahRevilla.mp3" target="_blank" rel="noopener">
+<i class="fa-solid fa-circle-play" style="font-size:20px"></i>
+</a>
+<!-- <i class="fa-solid fa-circle-play" style="font-size:20px"></i> -->
 
 ## Publications
 
