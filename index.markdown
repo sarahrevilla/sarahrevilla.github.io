@@ -118,7 +118,7 @@ Click to listen:
 edited by Simon Bacon, Bloomsbury, 2023,
 pp. 55--68.
 Coauthored with Cristina Santos.
-<a href="https://www.bloomsbury.com/us/female-identity-in-contemporary-fictional-purgatorial-worlds-9781350227040/">
+<a href="https://www.bloomsbury.com/us/female-identity-in-contemporary-fictional-purgatorial-worlds-9781350227040/" target="_blank">
 <i class="fas fa-external-link-alt" style="font-size:20px"></i>
 
 - <span style="color:black;">
@@ -126,7 +126,7 @@ Coauthored with Cristina Santos.
   Rethinking Gender and Money in NBC’s *Grimm* TV Series."
 </span>
 *Grimm Realities. Essays on Identity and Justice in the Television Series*,edited by Daniel Farr and Melanie D. Holm, McFarland Books, 2023, pp 140--154.
-<a href="https://mcfarlandbooks.com/product/grimm-realities/">
+<a href="https://mcfarlandbooks.com/product/grimm-realities/" target="_blank">
 <i class="fas fa-external-link-alt" style="font-size:20px"></i>
 
 **Non-refereed publications:**
@@ -136,7 +136,7 @@ Coauthored with Cristina Santos.
 by Carmen A. Serrano.
 *A Contracorriente: Una revista de estudios latinoamericanos*,
 vol. 19 no. 3, May 2022, pp. 403-407.
-<a href="https://acontracorriente.chass.ncsu.edu/index.php/acontracorriente/article/view/2248">
+<a href="https://acontracorriente.chass.ncsu.edu/index.php/acontracorriente/article/view/2248" target="_blank">
 <i class="fas fa-external-link-alt" style="font-size:20px"></i>
 - Review of *Men, Masculinities, and Popular Romance*
 (Routledge, 2019)
@@ -149,7 +149,7 @@ vol. 10 no. 1, April 2022, pp. 374-376.
   Haunting Murders: Feminicide, Ghosts, and Affects in Contemporary Mexico.
 </span>
 University of Victoria, 2021. (MA thesis.)
-<a href="https://dspace.library.uvic.ca/bitstream/handle/1828/13255/Revilla-Sanchez_Sarah_MA_2021.pdf?sequence=5&isAllowed=y">
+<a href="https://dspace.library.uvic.ca/bitstream/handle/1828/13255/Revilla-Sanchez_Sarah_MA_2021.pdf?sequence=5&isAllowed=y" target="_blank">
 <i class="fas fa-external-link-alt" style="font-size:20px"></i>
 
 <!--
@@ -183,7 +183,7 @@ blah
 **Resources:**
 
 - Slides for teaching inclusive language in Spanish classes: 
-<a href="./docs/InclusiveLanguageBeginnersSpanish.pdf">
+<a href="./docs/InclusiveLanguageBeginnersSpanish.pdf" target="_blank">
   <i class="fas fa-desktop" style="font-size:20px"></i>
 </a> 
 
@@ -270,5 +270,5 @@ revillas[at]student[dot]ubc[dot]ca
 <span style="color:black;">
 Page at UBC FHIS. 
 </span>
-<a href="https://fhis.ubc.ca/profile/sarah-revilla-sanchez/">
+<a href="https://fhis.ubc.ca/profile/sarah-revilla-sanchez/" target="_blank">
 <i class="fas fa-external-link-alt" style="font-size:20px"></i></a>
