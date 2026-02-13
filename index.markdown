@@ -111,6 +111,16 @@ Click to listen:
 **Refereed publications:**
 
 - <span style="color:black;">
+  *Horror and Mother/hoods in Global Cultural Imaginaries: 
+  Representations Across Literature, Film, Television, and Art*,
+  edited by Cristina Santos, Rachel D. Davidson, 
+  and Sarah Revilla-Sanchez, Demeter Press 
+  (in press, forthcoming October 2026).
+</span>
+<a href="https://demeterpress.org/books/horror-and-mother-hoods-in-global-cultural-imaginaries-representations-across-literature-film-television-and-art/" target="_blank">
+<i class="fas fa-external-link-alt" style="font-size:20px"></i>
+
+- <span style="color:black;">
   "La Llorona Hauntings:
   Storytelling Feminicide at the Purgatorial Mexico/US Border."
 </span>
